@@ -1,0 +1,12 @@
+h1{
+    color: green;
+}
+#maryam{ background-color:crimson;}
+.maryam{background-color: steelblue;}
+*{
+ background-color: brown;   
+}
+h2,h3{
+    background-color: skyblue;
+    font-size: 50px;
+}
